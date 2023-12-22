@@ -1,0 +1,73 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 224.3rem;
+}.style-color-Ums {
+  box-sizing: border-box;
+  padding: 9.1rem 15.5rem 9.1rem 15.4rem;
+  width: 100%;
+  display: flex;
+  column-gap: 1.7rem;
+  align-items: center;
+  background-color: #ffffff;
+}
+.style-color-Ums .rectangle-61-APo {
+  width: 22.7rem;
+  height: 20.3rem;
+  background-color: #131716;
+  flex-shrink: 0;
+}
+.style-color-Ums .rectangle-54-6YM {
+  width: 22.7rem;
+  height: 20.3rem;
+  background-color: #3d5653;
+  flex-shrink: 0;
+}
+.style-color-Ums .rectangle-55-Ss7 {
+  width: 22.7rem;
+  height: 20.3rem;
+  background-color: #425c59;
+  flex-shrink: 0;
+}
+.style-color-Ums .rectangle-56-nvy {
+  width: 22.7rem;
+  height: 20.3rem;
+  background-color: #d6a218;
+  flex-shrink: 0;
+}
+.style-color-Ums .rectangle-57-9Wd {
+  width: 22.6rem;
+  height: 20.3rem;
+  background-color: #cbdfde;
+  flex-shrink: 0;
+}
+.style-color-Ums .rectangle-58-hHF {
+  width: 22.7rem;
+  height: 20.3rem;
+  background-color: #e3f1f1;
+  flex-shrink: 0;
+}
+.style-color-Ums .rectangle-59-47o {
+  width: 22.7rem;
+  height: 20.3rem;
+  background-color: #ede1d1;
+  flex-shrink: 0;
+}
+.style-color-Ums .rectangle-60-or5 {
+  width: 22.7rem;
+  height: 20.3rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
